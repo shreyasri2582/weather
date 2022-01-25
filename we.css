@@ -1,18 +1,5 @@
 
-html{
 
-    background: url(/css/weather/sky.jpg);
- 
-      height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-   display: flex;
-  justify-content: center;
-  align-items: center;
-}
 header{
     text-align: justify;
 }
